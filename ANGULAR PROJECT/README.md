@@ -4,15 +4,15 @@
 
 
 
--  create a folder called mobile-store-react & add the src file into it . 
+-  create a folder called sbi_bank & add the src file into it . 
 
-- change the directory in vs code to `cd mobile-store-react`
+- change the directory in vs code to `cd sbi_bank`
 
 - install the nodemodules , bootsrtap & react , reacter-router-dom .
 
-- add e-commerce file to spring tool suite 
+- add bankapp file to spring tool suite 
 
-- create a database named mobile in mysql workbench 
+- create a database named bank in mysql workbench 
 
 - `npm install` 
 
