@@ -8,9 +8,7 @@
 
 - change the directory in vs code to `cd mobile-store-react`
 
-- install the nodemodules , bootsrtap & react , reacter-router-dom .
-
-- add shopping  file to spring tool suite 
+- install the nodemodules , bootsrtap & react , reacter-router-dom 
 
 - create a database named mobile in mysql workbench 
 
